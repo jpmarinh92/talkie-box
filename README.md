@@ -4,6 +4,7 @@
   [![license](https://img.shields.io/badge/license-MIT-green)](https://shields.io)
 
   ## Table of Contents
+  - [Live View](https://protected-forest-66303.herokuapp.com/ "Live View")
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -32,5 +33,5 @@
   Not applicable.
 
   ## Additional Info:
-  - Github: [wcastellan](https://github.com/wcastellan)
-  - Email: wcastellan@yahoo.com 
+  - Github: [JPMarin92](https://github.com/jpmarinh92)
+  - Email: jpmarin92@hotmail.com
